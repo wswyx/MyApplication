@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">不知道叫啥就这样吧</string>
+    <string name="app_version">version 1.0.1</string>
+    <string name="button_msg">你点我呀~</string>
+    <string name="text_today">今天值日滴小可爱是</string>
+    <string name="text_yesterday">昨天值日滴小可爱是</string>
+    <string name="text_tomorrow">明天值日滴小可爱是</string>
+    <string name="action_loggings">登录</string>
+    <string name="action_settings">设置</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="menu_zh">
+        <item>主页</item>
+        <item>社区</item>
+        <item>订阅</item>
+        <item>天气</item>
+        <item>更多</item>
+    </string-array>
+
+    <string-array name="menu_en">
+        <item>HOME</item>
+        <item>COMMUNITY</item>
+        <item>SUBSCRIPTION</item>
+        <item>WEATHER</item>
+        <item>MORE</item>
+    </string-array>
+
+</resources>

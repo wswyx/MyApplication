@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+    </style>
+
+
+    <!--toolbar-->
+    <style name="ToolbarPopupTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+        <item name="android:dropDownListViewStyle">@style/popmenuDivier</item>
+    </style>
+
+    <style name="OverflowMenuStyle" parent="Widget.AppCompat.Light.PopupMenu.Overflow">
+        <item name="overlapAnchor">false</item> <!--位置-->
+    </style>
+
+    <style name="popmenuDivier">
+        <item name="android:divider">#E6E6FA</item>
+        <item name="android:dividerHeight">2sp</item><!--分割线-->
+    </style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

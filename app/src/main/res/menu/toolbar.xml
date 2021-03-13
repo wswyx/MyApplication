@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/button_login"
+        android:title="@string/action_loggings"
+        android:orderInCategory="00"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/button_set"
+        android:title="@string/action_settings"
+        android:orderInCategory="00"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="never"/>
+
+</menu>
